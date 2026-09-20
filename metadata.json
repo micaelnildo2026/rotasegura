@@ -1,0 +1,6 @@
+{
+  "name": "Toyota Rota Segura (Toyota RS)",
+  "description": "Mobilidade urbana inteligente, segura e inclusiva para PCD, crianças, jovens, idosos e trabalhadores com IA contextual e prevenção de sinistros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
